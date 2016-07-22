@@ -193,6 +193,9 @@ class ViewController: UIViewController {
     //和复制文件一样，只是把方法改成moveItemAtPath
     
     
+    
+    
+    
     //MARK:- 9.读取文件
     func readFile() {
         
